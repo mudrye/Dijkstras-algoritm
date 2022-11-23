@@ -12,6 +12,7 @@
 /*
  * Structure used to represent a priority queue.
  */
+struct pq_node;
 struct pq;
 
 /*
