@@ -16,7 +16,6 @@
 #define DATA_FILE "airports.dat"
 #define START_NODE 0
 
-
 struct map{
   int cost;
   int prev;
